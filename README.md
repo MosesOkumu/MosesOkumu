@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MosesOkumu
 - 👀 I’m interested in programming to enable for data science
-- 🌱 I’m currently learning python and R promramme
+- 🌱 I’m currently learning python and R programme language
 - 💞️ I’m looking to collaborate on use of data science in making business decisions
 - 📫 How to reach me mosesokumu30@gmail.com
 
